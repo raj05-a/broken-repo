@@ -31,3 +31,6 @@ Run the compiled binary:
 
 - **Data Simulation:** Generates 5 unique sensor readings using a randomized algorithm.
 - **Directory Management:** Automatically ensures the `/output` directory exists before writing files.
+
+
+Tuesday, 12th May, 11p.m.
