@@ -1,0 +1,7 @@
+Sensor Data Log
+----------------
+Reading 1: 99 units
+Reading 2: 75 units
+Reading 3: 87 units
+Reading 4: 92 units
+Reading 5: 62 units
